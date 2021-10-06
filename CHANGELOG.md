@@ -1,5 +1,11 @@
 # XState Visualizer
 
+## 0.4.1
+
+### Patch Changes
+
+- [#289](https://github.com/statelyai/xstate-viz/pull/289) [`48af2ef`](https://github.com/statelyai/xstate-viz/commit/48af2ef6dc90afe9bfcf922e575dc9846ea8b5ea) Thanks [@farskid](https://github.com/farskid)! - Fix a bug with inconsistent embed previews
+
 ## 0.4.0
 
 ### Minor Changes
